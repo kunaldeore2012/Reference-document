@@ -1,0 +1,16 @@
+[2] SWE-bench benchmark website:-
+https://www.vals.ai/benchmarks/swebench
+
+
+[9] IJRASET review:-
+https://www.ijraset.com/research-paper/real-time-web-ide-collaborative-code-editors
+
+
+[32] Scilit review:-
+https://www.irjmets.com/upload_newfiles/irjmets80200023627/paper_file/irjmets80200023627.pdf
+
+
+
+
+[18]Axios News Articles:-
+https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting

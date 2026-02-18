@@ -1,0 +1,20 @@
+[4] Yjs documentation:-
+ https://yjs.dev
+
+[5] Automerge paper:-
+https://automerge.org/
+
+[13] WebContainers — StackBlitz:-
+https://webcontainers.io/
+
+[16] Claude Opus — Anthropic:-
+https://www.anthropic.com/news/claude-opus-4-6
+
+[17] Anthropic red team report:-
+https://red.anthropic.com/2026/zero-days/
+
+[19] GPT-5.3 Codex — OpenAI:-
+https://openai.com/index/introducing-gpt-5-3-codex/
+
+[20] Gemini 3 — Google DeepMind:-
+https://deepmind.google/models/gemini/
